@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ConfigLR3>
+    <neighbour>
+        <neighbours name="John6" weight="1.0"/>
+        <neighbours name="John7" weight="2.0"/>
+        <neighbours name="John11" weight="6.0"/>
+    </neighbour>
+    <startpoint>false</startpoint>
+    <endpoint>false</endpoint>
+</ConfigLR3>
